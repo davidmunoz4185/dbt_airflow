@@ -51,9 +51,13 @@ These folders are created for AirFlow and Postgres DataBase purposes.
 
 ### 2ND STEP
 
+Just execute
+
 ```BASH
 ./start_env.sh
 ```
+
+and the rest of images will be started up.
 
 ## AirFlow Resources
 
@@ -66,6 +70,8 @@ The following [guide](https://airflow.apache.org/docs/apache-airflow/stable/howt
 Project example with its [repo](https://github.com/dbt-labs/jaffle_shop).
 
 ### BigQuery Connection
+
+In directory _.dbt/_ you can find the 2 necessary files to get connected.
 
 Refer to this [guide](
 https://docs.getdbt.com/docs/core/connect-data-platform/bigquery-setup#service-account-file
