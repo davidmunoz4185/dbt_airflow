@@ -1,0 +1,5 @@
+
+# Directories created with docker compose up
+logs/
+plugins/
+postgres-db-volume/
