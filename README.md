@@ -1,7 +1,5 @@
 # DBT AIRFLOW
 
-## INTRO
-
 In this repo's branch is detailed how to integrate the following tools:
 
 - AirFlow
@@ -12,7 +10,7 @@ in order to have a productive ELT environment.
 
 To avoid SO dependencies, docker is used to integrate the components.
 
-## PRE-REQUISITES
+## REQUIREMENTS
 
 As commented previously, docker must be installed beforehand.
 
